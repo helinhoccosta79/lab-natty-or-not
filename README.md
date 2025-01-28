@@ -1,48 +1,19 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Guia prático de Regressão Linear Múltipla: passo a passo com implementação em linguagem R®
+📒 Descrição
+Resumo para compreensão sobre Regressão Linear Múltipla com o passo a passo para implementação de código em R®
 
-## 🚀 Introdução
+🤖 Tecnologias Utilizadas
+- **[Copilot da Microsoft](https://www.microsoft.com):** utilizado como roteiro para criação do e-book.
+- **[ChatGPT](https://chatgpt.com/):** utilizado como alternativa de roteiro para criação do e-book.
+- **[Gamma](https://www.canva.com):** Criação da apresentação em forma de site.
 
-> Woooow! Look at this 👀
+🧐 Processo de Criação
+Utilizei o Copilot da Microsoft e o ChatGPT para um roteiro de como criar o e-book. Depois utilizei o Gamma para design, porém o próprio Gamma me deu sugestão de criação, na qual eu acatei e fiz pequenas alterações.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+🚀 Resultados
+**E-book:** Um e-book de 10 páginas, combinando texto com imagens.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [E-BOOK](https://gamma.app/docs/Guia-pratico-de-Regressao-Linear-Multipla-passo-a-passo-com-imple-zlv07dsr3ml0jjb?mode=doc)
 
 ## Links Interessantes
 
