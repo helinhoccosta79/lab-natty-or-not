@@ -1,6 +1,6 @@
 # Guia prático de Regressão Linear Múltipla: passo a passo com implementação em linguagem R®
 📒 Descrição
-Resumo para compreensão sobre Regressão Linear Múltipla com o passo a passo para implementação de código em R®
+- Resumo para compreensão sobre Regressão Linear Múltipla com o passo a passo para implementação de código em R®
 
 🤖 Tecnologias Utilizadas
 - **[Copilot da Microsoft](https://www.microsoft.com):** utilizado como roteiro para criação do e-book.
